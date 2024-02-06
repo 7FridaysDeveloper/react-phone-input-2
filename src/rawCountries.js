@@ -100,7 +100,7 @@ const rawCountries = [
     'Bahamas',
     ['america', 'carribean'],
     'bs',
-    '1242'
+    '1'
   ],
   [
     'Bahrain',
